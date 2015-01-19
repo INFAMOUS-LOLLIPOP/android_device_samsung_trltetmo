@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-$(call inherit-product, device/samsung/trltetmo/full_trltetmo.mk)
+$(call inherit-product, device/samsung/trltetmo/infamous_trltetmo.mk)
 
 # Enhanced NFC
 $(call inherit-product, vendor/infamous/config/nfc_enhanced.mk)
